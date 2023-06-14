@@ -14,7 +14,7 @@ export default function Portfolio () {
                 </Row>
                 <Row>
                     <Col>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore animi officiis fuga magnam suscipit saepe minima, corrupti quisquam illo iure dignissimos deserunt odio. Incidunt enim tenetur, odit ex ipsa alias.</p>
+                    <p>Portfolio</p>
                     </Col>
                 </Row>
             </Container>

@@ -1,6 +1,6 @@
-import NavMenu from "./NavMenu"
-import Main from "./Main"
-import Footer from "./Footer"
+import NavMenu from "../layout/NavMenu"
+import Main from "../layout/Main"
+import Footer from "../layout/Footer"
 
 export default function AppLayout ({children}) {
 
