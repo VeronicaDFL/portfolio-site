@@ -3,11 +3,17 @@ background-color: #CEC3B9
 }
 
 .part-one {
+
     background-image: url(../../public/images/home-.png);
     background-size:contain;
     background-repeat: no-repeat;
-}
+       
+    }
 
+.h1 {
+    font-size: 12px;
+    font-size: clamp(2rem, 4vw, 2.5rem);
+}
 
   
  

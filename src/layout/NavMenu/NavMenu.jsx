@@ -5,9 +5,9 @@ export default function NavMenu () {
 
     return (
 
-        <Navbar bg="dark" variant="dark" expand="md">
+        <Navbar bg="dark" variant="dark" expand="lg">
         <Container>
-          <Navbar.Brand as={Link} to="/" href="#home">Prototype</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/" href="#home">VERONICA DE FELICE</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">

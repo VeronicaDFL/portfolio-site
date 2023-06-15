@@ -13,9 +13,6 @@ export default function Portfolio () {
                     </Col>
                 </Row>
                 <Row>
-                    <Col>
-                    <p>Portfolio</p>
-                    </Col>
                 </Row>
             </Container>
             <Gallery/>
