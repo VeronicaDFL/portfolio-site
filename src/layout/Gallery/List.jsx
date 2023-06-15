@@ -13,6 +13,7 @@ export default function List () {
                     data.map((element,index)=> {
                         return (
                             <Panel
+                            
                             key={index}
                             element={element}/>
                         )
