@@ -17,7 +17,7 @@ export default function List () {
                             key={index}
                             element={element}/>
                         )
-                    }).reverse()
+                    })
                 }
 
             </Row>
