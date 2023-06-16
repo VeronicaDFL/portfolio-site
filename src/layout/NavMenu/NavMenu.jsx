@@ -4,25 +4,26 @@ import { Link } from "react-router-dom"
 
 
 
+
 export default function NavMenu () {
   const gitHubLink = "https://github.com/veronicadfl/profile-app";
   const Linkedinlink ="https://www.linkedin.com/in/veronicadefelice/"
     return (
 
-        <Navbar bg="dark" variant="dark" expand="lg">
+        <Navbar sticky="top" bg="dark" variant="dark" expand="lg">
         <Container>
        
                  <a href={gitHubLink} 
                  target="_blank"
-                 rel="noreferrel" >GitHub</a>
+                 rel="noreferrel" ><i className="bi bi-github"></i></a>
                   <br/>
                 <a href={Linkedinlink} 
                  target="_blank"
-                 rel="noreferrel">Linkedln</a>
+                 rel="noreferrel"><i className="bi bi-linkedin"></i></a>
                  <br/>
        
        
-          <Navbar.Brand as={Link} to="/" href="#home">V</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/" href="#home"><i className="bi bi-house-fill"></i></Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">

@@ -19,7 +19,14 @@ background-color: $primary-color;
 
 .page-two {
     margin-top: 30px;
-}    
+}  
+
+.bottom {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
 
 h1  {
   
@@ -41,10 +48,31 @@ h2  {
     margin-bottom: 5px;
  }
 
+ h4 {
+    font-family: $font-stack;
+    color: #CEC3B9;
+    font-size:medium;
+ }
+
 p  {
     font-family: $font-stack;
     font-size: clamp(0.8rem, 1.5vw, 1.5rem);
     margin: 5px;
  }
+
+ .bi-github {
+    color: #CEC3B9;
+    size: 40;
+ } 
+
+ .bi-linkedin {
+    color: #CEC3B9;
+    size: 40;
+ } 
+
+ .bi-house-fill {
+    color: #CEC3B9;
+    size: 40;
+ } 
 
 
