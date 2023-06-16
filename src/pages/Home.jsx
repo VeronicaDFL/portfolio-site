@@ -11,7 +11,7 @@ export default function Home () {
 
     return (
         <Layout>
-        <Container id="home">
+        <Container className="page-two" id="home">
           <Row>
           <h1>3 things about me🤟👇</h1>
             <Col>

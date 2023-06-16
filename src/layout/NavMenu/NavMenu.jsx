@@ -22,7 +22,7 @@ export default function NavMenu () {
                  <br/>
        
        
-          <Navbar.Brand as={Link} to="/" href="#home">VERONICA DE FELICE</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/" href="#home">V</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">

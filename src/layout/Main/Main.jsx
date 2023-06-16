@@ -18,7 +18,7 @@ import Modal from 'react-bootstrap/Modal'
                     <Col className="intro">
                      <h1>Hello, I'm Veronica, welcome to my page! Here, you'll discover a collection of what I have learned during my Software Engineering career path till now and a few things about me!</h1>
                       <>
-                        <Button onClick={() => setLgShow(true)}>Contact Info</Button>
+                        <Button variant="dark" size="sm" onClick={() => setLgShow(true)}>Contact Info</Button>
                         <Modal
                           size="lg"
                           show={lgShow}

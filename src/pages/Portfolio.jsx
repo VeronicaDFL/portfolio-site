@@ -9,7 +9,7 @@ export default function Portfolio () {
             <Container id="gallery">
                 <Row>
                     <Col className="text-center">
-                        <h2>Portfolio</h2>
+                        <h1>Portfolio</h1>
                     </Col>
                 </Row>
                 <Row>

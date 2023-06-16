@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Bite-Buster",
-    "content": "",
+    "content": "Smart-Dining Web App,Mobile Friendly.",
     "image": "mobile1.webp",
     "site":"https://main.d3qkj62q5kdmfa.amplifyapp.com/"
 
@@ -10,21 +10,21 @@
   {
     "id": 2,
     "title": "Expence-Tracker",
-    "content": "",    
+    "content": "App that Tracks what you spend and what you gain,Mobile Friendly.",    
     "image": "track1.webp",
     "site":"https://expence-tracker-vdf.web.app/"
   },
   {
     "id": 3,
     "title": "Marine-Canvas ",
-    "content": "",    
+    "content": "Collection of work that I personally fabricate for Yachts",    
     "image": "collection.png",
     "site":"https://github.com/VeronicaDFL/portfolio-c10"
   },
   {
     "id": 4,
     "title": "Login-Form",
-    "content": "",    
+    "content": "Sign In and Sign up Form ",    
     "image": "login1.webp",
     "site":"https://github.com/VeronicaDFL/login-form"
 
@@ -32,14 +32,14 @@
   {
     "id": 5,
     "title": "Seoul-Clock",
-    "content": "",    
+    "content": "Fun digital clock with AI generated art",    
     "image": "seoul1.webp",
     "site":"https://github.com/VeronicaDFL/bluenight-in-seoul-clock"
   },
   {
     "id": 6,
     "title": "Todo-List",
-    "content": "",
+    "content": "My First to-do List",
     "image": "todo1.webp",
     "site":"https://github.com/VeronicaDFL/much-todo-web"
   },
@@ -47,7 +47,7 @@
   {
     "id": 7,
     "title": "Profile-Page",
-    "content": "",    
+    "content": "Web Page about myself,mobile Friendly",    
     "image": "profile1.webp",
     "site":"https://profile-form-vdf.web.app/"
   },
@@ -55,7 +55,7 @@
   {
     "id": 8,
     "title": "Quiz-App",
-    "content": "",
+    "content": "Fun quiz app",
     "image": "quiz1.webp",
     "site":"https://quiz-app-vdf.web.app/"
   }
