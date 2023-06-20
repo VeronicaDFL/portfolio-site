@@ -15,7 +15,7 @@ export default function NavMenu () {
        
                  <a href={gitHubLink} 
                  target="_blank"
-                 rel="noreferrel" ><i className="bi bi-github"></i></a>
+                 rel="noreferrel" ><i className="bi bi-github fa-lg"></i></a>
                   <br/>
                 <a href={Linkedinlink} 
                  target="_blank"
