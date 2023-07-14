@@ -3,7 +3,7 @@ import { Container,Row,Col } from "react-bootstrap"
 export default function Footer () {
     const currentYear = new Date().getFullYear();
     return(
-       <Container fluid className="bottom"  >
+       <Container fluid className="bottom fixed-bottom" >
         <Row>
          <Col>
             <footer>
